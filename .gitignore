@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencias de producción y desarrollo instaladas globalmente
+package-lock.json
+
+# Archivos de entorno
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración IDE
+.vscode/
+.idea/
+.sublime-workspace
+
+# Directorios de build
+build/
+dist/
+
+# Archivos de respaldo
+*~
